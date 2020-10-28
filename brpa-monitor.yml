@@ -1,3 +1,5 @@
+message: teste leitura
+
 eureka:
   instance:
     hostname: localhost
